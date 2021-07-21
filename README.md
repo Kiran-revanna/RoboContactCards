@@ -1,2 +1,2 @@
 # RoboContactCards
-A small project using React.Js and JavaScript to display contact Cards.
+A small project using React.Js+HTML+CSS to display contact Cards of employees or friends. 
